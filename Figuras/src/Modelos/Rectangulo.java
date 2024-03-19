@@ -13,7 +13,7 @@ public class Rectangulo {
     }
 
 
-public void rectangulo(int base, int altura) {
+public  Rectangulo(int base, int altura) {
     this.base = base;
     this.altura = altura;}
 
